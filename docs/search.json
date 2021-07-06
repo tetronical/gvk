@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-07-06T21:03:16+05:30"
+      "last_modified": "2021-07-06T21:06:43+05:30"
     },
     {
       "path": "example.html",
@@ -20,15 +20,15 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2021-07-06T21:03:17+05:30"
+      "last_modified": "2021-07-06T21:06:45+05:30"
     },
     {
       "path": "index.html",
       "title": "G vamsi Krishna",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-07-06T21:03:18+05:30"
+      "contents": "\n\n\nacf(runif(100))\n\n\n\n\n\n\n\n",
+      "last_modified": "2021-07-06T21:06:46+05:30"
     }
   ],
   "collections": []
