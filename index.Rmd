@@ -1,22 +1,41 @@
 ---
-title: "G vamsi Krishna"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Gunturu Vamsi Krishna"
+image: "img/Logo.png"
+links:
+  - label: Google Scholar
+    url: ""
+  - label: GitHub
+    url: "https://github.com/tetronical"
+  - label: Email
+    url: "mailto:vamsikrishna.g@iitb.ac.in"
+output:
+  postcards::trestles
 site: distill::distill_website
-listing: posts
+
 ---
-```{r}
-acf(runif(100))
-```
+ 
+## Bio
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+## Education
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
+**Indian Institute of Technology Bombay** | India
 
-```
+Ph.D. in Water Resources Engineering | 202X
+
+**National Institute of Technology, Karnataka** | India
+
+M.Tech. in Remote Sensing & Geographic Information System | January 2018
+
+**Vikrama Simhapuri University, SPSR Nellore** | India
+
+B.Tech. in Civil | April 2015
+
+## Research Interests
+### Area:
+
+### Research Topics: 
+
+
+### Courses:
 

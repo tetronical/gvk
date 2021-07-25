@@ -1,7 +1,7 @@
 ---
-title: "About this site"
+title: "About Me"
 description: |
-  This is Vamsi, I'm doing my PhD. My work is mainly related to finding patterns in the data and predict the future. During my intial years I was introduced to the concepts of *Chaos* and *Fractals*. 
+  Some additional details about me
 ---
 
 ```{r setup, include=FALSE}

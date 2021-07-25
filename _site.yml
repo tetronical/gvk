@@ -1,15 +1,17 @@
-name: "gvk"
-title: "Gunturu Vamsi Krishna"
+name: "GVK"
+title: "G VAMSI KRISHNA"
 description: |
-  Building website in Rstudio
-output_dir: "docs"
+  GVK
+output_dir: "_site"
 navbar:
+  search: true
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "About Me"
       href: about.html
-    - text: "Posts"
-      href: example.html
-      search: true
+    - text: "Publications"
+      href: journal.html
+    - text: "Employment History"
+      href: eh.html
 output: distill::distill_article
