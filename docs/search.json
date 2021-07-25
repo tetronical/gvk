@@ -6,7 +6,7 @@
       "description": "This is Vamsi, I'm doing my PhD. My work is mainly related to finding patterns in the data and predict the future. During my intial years I was introduced to the concepts of *Chaos* and *Fractals*. ",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-07-25T10:33:31+05:30"
+      "last_modified": "2021-07-25T10:44:16+05:30"
     },
     {
       "path": "example.html",
@@ -20,7 +20,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2021-07-25T10:33:33+05:30"
+      "last_modified": "2021-07-25T10:44:17+05:30"
     },
     {
       "path": "index.html",
@@ -28,7 +28,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\nacf(runif(100))\n\n\n\n\n\n\n\n",
-      "last_modified": "2021-07-25T10:38:03+05:30"
+      "last_modified": "2021-07-25T10:44:19+05:30"
     }
   ],
   "collections": ["posts/posts.json"]
