@@ -2,7 +2,7 @@ name: "GVK"
 title: "G VAMSI KRISHNA"
 description: |
   GVK
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   search: true
   right:

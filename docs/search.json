@@ -1,0 +1,36 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About Me",
+      "description": "Some additional details about me",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-07-26T14:05:16+05:30"
+    },
+    {
+      "path": "eh.html",
+      "title": "Employment History",
+      "description": "Some details about my employment",
+      "author": [],
+      "contents": "\nEMPLOYMENT HISTORY\n\n\n\n",
+      "last_modified": "2021-07-26T14:05:17+05:30"
+    },
+    {
+      "path": "index.html",
+      "title": "Gunturu Vamsi Krishna",
+      "author": [],
+      "contents": "\n\n          \n          \n          G VAMSI KRISHNA\n          \n          \n          Home\n          About Me\n          Publications\n          Employment History\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Gunturu Vamsi Krishna\n            \n            \n              \n                \n                    \n                      \n                        Google Scholar\n                      \n                    \n                  \n                                    \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Bio\n            \n            \n            Education\n            Indian Institute of Technology Bombay | India\n            Ph.D. in Water Resources Engineering | 202X\n            National Institute of Technology, Karnataka | India\n            M.Tech. in Remote Sensing & Geographic Information System | January 2018\n            Vikrama Simhapuri University, SPSR Nellore | India\n            B.Tech. in Civil | April 2015\n            \n            \n            Research Interests\n            \n            Area:\n            \n            \n            Research Topics:\n            \n            \n            Courses:\n            \n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Gunturu Vamsi Krishna\n            \n            \n              \n                \n                                    \n                    \n                      Google Scholar\n                    \n                  \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              \n              \n              Education\n              Indian Institute of Technology Bombay | India\n              Ph.D. in Water Resources Engineering | 202X\n              National Institute of Technology, Karnataka | India\n              M.Tech. in Remote Sensing & Geographic Information System | January 2018\n              Vikrama Simhapuri University, SPSR Nellore | India\n              B.Tech. in Civil | April 2015\n              \n              \n              Research Interests\n              \n              Area:\n              \n              \n              Research Topics:\n              \n              \n              Courses:\n              \n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-07-26T14:05:17+05:30"
+    },
+    {
+      "path": "journal.html",
+      "title": "About my Journal articles",
+      "description": "No Journals are published yet",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-07-26T14:05:18+05:30"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
